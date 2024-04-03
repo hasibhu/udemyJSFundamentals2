@@ -94,8 +94,11 @@ const john = {
     }
 }
 
+// // Calculating BMI for Mark and John
 mark.calcBMI();
 john.calcBMI()
+
+// check the bmi output
 console.log(mark.bmi);
 console.log(john.bmi);
 
